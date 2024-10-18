@@ -8,9 +8,7 @@ url = 'https://api.youpin898.com/api/youpin/bff/trade/v1/trade/monitor/price/tre
 
 # 自定义请求头（根据需要）
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
-    'Content-Type': 'application/json',
-    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyYTAyMTkzNjIxZDk0ZmNjOTNmMWM5NzdjOTUwNDIyMCIsIm5hbWVpZCI6Ijc2Njg1NDEiLCJJZCI6Ijc2Njg1NDEiLCJ1bmlxdWVfbmFtZSI6IkNpUGciLCJOYW1lIjoiQ2lQZyIsInZlcnNpb24iOiJiYTYiLCJuYmYiOjE3MjkwOTI2NTAsImV4cCI6MTcyOTk1NjY1MCwiaXNzIjoieW91cGluODk4LmNvbSIsImF1ZCI6InVzZXIifQ.baVdWU8aLDIwOUdyeqFeOKufkxJPfiv1iu0pNg58H6g'
+
 }
 
 # POST 请求体
